@@ -1,0 +1,6 @@
+flask
+crewai
+langchain
+tavily-python
+python-dotenv
+ollama
